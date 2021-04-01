@@ -1,0 +1,32 @@
+{
+  "name": "onedrive-excel-reader",
+  "version": "1.0.0",
+  "description": "Read Excel files stored in OneDrive locations",
+  "main": "src/index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondarrer/onedrive-excel-reader.git"
+  },
+  "keywords": [
+    "onedrive",
+    "excel"
+  ],
+  "author": "Jonathan Darrer <jonny@jondarrer.me.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jondarrer/onedrive-excel-reader/issues"
+  },
+  "homepage": "https://github.com/jondarrer/onedrive-excel-reader#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "eslint": "^7.23.0",
+    "husky": "^6.0.0",
+    "jest": "^26.6.3",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1"
+  }
+}
