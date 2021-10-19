@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jondarrer/onedrive-excel-reader#readme",
   "devDependencies": {
-    "@types/jest": "^26.0.22",
+    "@types/jest": "26.0.24",
     "eslint": "^7.23.0",
     "husky": "^6.0.0",
     "jest": "^26.6.3",
